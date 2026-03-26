@@ -81,9 +81,14 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/huggingface/transformers
+2. Gráfico selecionado: 
+<img width="1034" height="526" alt="image" src="https://github.com/user-attachments/assets/2544ad37-75e5-463b-b127-51467f7435b2" />
+
+3. Explicação:
+O gráfico ilustra a evolução quantitativa dos arquivos no repositório ao longo do tempo (2021-2026) para o Hugging Face Transformers.
+Podemos notar um aumento consistente e significativo tanto no número de arquivos de produção (linha azul - production) quanto de teste (linha rosa - test files).
+Apesar de os arquivos de código crescerem em maior volume absoluto, as duas linhas sobem de forma correlacionada, quase paralelas, o que indica que novas funcionalidades estão sendo implementadas junto com seus respectivos testes, mantendo a cobertura de testes do projeto à medida que ele escala.
 
 
 
